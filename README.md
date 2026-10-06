@@ -4,8 +4,6 @@ This repository contains a single-file research implementation of the method des
 
 **"MMAHH-Mamba: Modality-Missing-Aware Heterogeneous Hypergraph Mamba for Robust Brain Tumor Segmentation with Incomplete Multimodal MRI"**
 
-This is an executable initial implementation based on the manuscript's method description. It is not a verified reproduction of the reported experiments, and no pretrained BraTS weights are included.
-
 ## Overview
 
 Multimodal MRI provides complementary evidence for brain tumor segmentation. Missing sequences change not only the available input channels but also the reliability of cross-modal relationships and the spatial propagation of tumor information. MMAHH-Mamba implements three coupled components:
